@@ -1,0 +1,24 @@
+h2 {
+    text-align: center;
+}
+
+.table_list {
+    margin: auto;
+    width: 450px;
+    text-align: center;
+    border: solid 1px lightcoral;
+}
+
+#tr_top {
+    background-color: lightcoral;
+    text-align: center;
+}
+
+th, td {
+    border : solid 1px lightcoral;
+}
+
+
+#commandCell {
+    text-align: center;
+}
