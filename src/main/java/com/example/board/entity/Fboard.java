@@ -32,8 +32,6 @@ public class Fboard {
 	private String content;
 	@Column
 	private String filename;
-	
-	@Embedded //생성자에 포함시키지 않는다.
-	private MultipartFile file;
+
 	
 }
