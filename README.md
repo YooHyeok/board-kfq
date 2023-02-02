@@ -22,4 +22,4 @@ BootStrap <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-squ
 <br/>
 
 
-# React 경로 : src/main/resources/react
+# React 경로 : src/main/resources/react.board
