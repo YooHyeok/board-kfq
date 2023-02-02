@@ -3,6 +3,7 @@ react+ spring 파일 업로드 게시판 예제 (STS)
 
 # 개발환경 언어 및 기술
 
+Windows <img src="https://img.shields.io/badge/Windows-#0078D6?style=flat-square&logo=Windows&logoColor=white"/> <br/>
 IntelliJ <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="zoom:150%; float: left"/> <br/>
 Spring MVC <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="zoom:150%; float: left"/>&nbsp;
  <br/>
